@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@import './variables.scss';
+
+#mynav {
+    width: 500px;
+    ul {
+        list-style: none;
+        padding: 0;
+        li {
+            float: left;
+            a {
+                box-sizing: border-box;
+                display: block;
+                width: 100px;
+                line-height: 30px;
+                text-align: center;
+                text-decoration: none;
+                background-color: #fff;
+                border: solid 1px #69f;
+                color: #222;
+            }
+        }
+    }
+}

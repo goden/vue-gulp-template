@@ -1,0 +1,17 @@
+{
+  "name": "lottery-prototype",
+  "description": "A project which demostrates a prototype for lottery.",
+  "main": "index.js",
+  "authors": [
+    "Goden"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
